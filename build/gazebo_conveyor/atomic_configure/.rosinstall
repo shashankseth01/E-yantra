@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/shashank/ws_task3/devel/.private/gazebo_conveyor/setup.sh

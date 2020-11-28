@@ -1,0 +1,6 @@
+devel_space: /home/shashank/ws_task3/devel
+install: false
+install_space: /home/shashank/ws_task3/install
+profile: default
+source_space: /home/shashank/ws_task3/src
+workspace: /home/shashank/ws_task3

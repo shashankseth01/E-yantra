@@ -1,0 +1,1 @@
+/home/shashank/ws_task3/devel/.private/ur_gazebo/lib/pkgconfig/ur_gazebo.pc

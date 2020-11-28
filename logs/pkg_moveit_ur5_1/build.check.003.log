@@ -1,0 +1,4 @@
+CMake Error: The source directory "/home/shashank/ws_task3/src/vb_simulation_pkgs/pkg_moveit_ur5_1" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+Makefile:334: recipe for target 'cmake_check_build_system' failed
+make: *** [cmake_check_build_system] Error 1

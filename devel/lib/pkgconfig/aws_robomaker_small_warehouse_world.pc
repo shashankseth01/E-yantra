@@ -1,0 +1,1 @@
+/home/shashank/ws_task3/devel/.private/aws_robomaker_small_warehouse_world/lib/pkgconfig/aws_robomaker_small_warehouse_world.pc

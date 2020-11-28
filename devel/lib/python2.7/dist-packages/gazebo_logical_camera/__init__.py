@@ -1,0 +1,1 @@
+/home/shashank/ws_task3/devel/.private/gazebo_logical_camera/lib/python2.7/dist-packages/gazebo_logical_camera/__init__.py

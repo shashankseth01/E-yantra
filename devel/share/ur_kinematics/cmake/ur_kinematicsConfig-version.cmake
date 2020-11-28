@@ -1,0 +1,1 @@
+/home/shashank/ws_task3/devel/.private/ur_kinematics/share/ur_kinematics/cmake/ur_kinematicsConfig-version.cmake

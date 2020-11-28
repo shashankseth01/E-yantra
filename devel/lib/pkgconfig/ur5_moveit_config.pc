@@ -1,0 +1,1 @@
+/home/shashank/ws_task3/devel/.private/ur5_moveit_config/lib/pkgconfig/ur5_moveit_config.pc

@@ -1,0 +1,1 @@
+/home/shashank/ws_task3/devel/.private/gazebo_msgs/share/roseus/ros/gazebo_msgs/srv/GetModelState.l

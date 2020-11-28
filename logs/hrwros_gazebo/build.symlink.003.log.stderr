@@ -1,0 +1,3 @@
+Warning: Cannot symlink from /home/shashank/ws_task3/devel/.private/hrwros_gazebo/lib/libROSLogicalCameraPlugin.so to existing file /home/shashank/ws_task3/devel/lib/libROSLogicalCameraPlugin.so
+Warning: Source hash: 2f7f2b355e584fdda8511565e7be68e7
+Warning: Dest hash: 98968e59623b62b14e8690eceeaf1ce3

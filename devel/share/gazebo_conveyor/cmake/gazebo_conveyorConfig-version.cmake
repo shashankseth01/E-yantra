@@ -1,0 +1,1 @@
+/home/shashank/ws_task3/devel/.private/gazebo_conveyor/share/gazebo_conveyor/cmake/gazebo_conveyorConfig-version.cmake

@@ -1,0 +1,10 @@
+Symlinking /home/shashank/ws_task3/devel/share/ur_kinematics/cmake/ur_kinematicsConfig.cmake
+Symlinking /home/shashank/ws_task3/devel/share/ur_kinematics/cmake/ur_kinematicsConfig-version.cmake
+Symlinking /home/shashank/ws_task3/devel/lib/libur10_kin.so
+Symlinking /home/shashank/ws_task3/devel/lib/libur5_kin.so
+Symlinking /home/shashank/ws_task3/devel/lib/libur3_kin.so
+Symlinking /home/shashank/ws_task3/devel/lib/libur10_moveit_plugin.so
+Symlinking /home/shashank/ws_task3/devel/lib/libur3_moveit_plugin.so
+Symlinking /home/shashank/ws_task3/devel/lib/libur5_moveit_plugin.so
+Symlinking /home/shashank/ws_task3/devel/lib/python2.7/dist-packages/ur_kinematics/__init__.py
+Symlinking /home/shashank/ws_task3/devel/lib/pkgconfig/ur_kinematics.pc

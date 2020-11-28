@@ -1,0 +1,5 @@
+Symlinking /home/shashank/ws_task3/devel/share/gazebo_ros_control/cmake/gazebo_ros_controlConfig-version.cmake
+Symlinking /home/shashank/ws_task3/devel/share/gazebo_ros_control/cmake/gazebo_ros_controlConfig.cmake
+Symlinking /home/shashank/ws_task3/devel/lib/libdefault_robot_hw_sim.so
+Symlinking /home/shashank/ws_task3/devel/lib/libgazebo_ros_control.so
+Symlinking /home/shashank/ws_task3/devel/lib/pkgconfig/gazebo_ros_control.pc

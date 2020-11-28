@@ -1,0 +1,1 @@
+/home/shashank/ws_task3/devel/.private/gazebo_logical_camera/include/gazebo_logical_camera/Model.h
