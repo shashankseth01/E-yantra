@@ -6,6 +6,6 @@ moveit_setup_assistant_config:
   SRDF:
     relative_path: config/ur5.srdf
   CONFIG:
-    author_name: eyantra
-    author_email: eyantra@eyantra.com
-    generated_timestamp: 1606554560
+    author_name: vb_0192
+    author_email: ss115@iitbbs.ac.in
+    generated_timestamp: 1606628517
